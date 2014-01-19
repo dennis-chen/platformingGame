@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=startPos\ board\ sprite_image
+comment0.target=Enemy(int[],\ Board,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Enemy\r\n
+numComments=1
